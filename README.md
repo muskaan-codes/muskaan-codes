@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muskaan-codes aka Muskaan Manocha
-- 👀 I’m interested in the vast universe of AI
+- 👀 I’m interested in ML/DL
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me -> LinkedIn or muskaan.manocha97@gmail.com
